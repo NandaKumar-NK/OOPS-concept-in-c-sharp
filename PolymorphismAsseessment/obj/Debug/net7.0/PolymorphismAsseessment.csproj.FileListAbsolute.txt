@@ -1,0 +1,15 @@
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\bin\Debug\net7.0\PolymorphismAsseessment.exe
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\bin\Debug\net7.0\PolymorphismAsseessment.deps.json
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\bin\Debug\net7.0\PolymorphismAsseessment.runtimeconfig.json
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\bin\Debug\net7.0\PolymorphismAsseessment.dll
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\bin\Debug\net7.0\PolymorphismAsseessment.pdb
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.csproj.AssemblyReference.cache
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.AssemblyInfoInputs.cache
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.AssemblyInfo.cs
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.csproj.CoreCompileInputs.cache
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.dll
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\refint\PolymorphismAsseessment.dll
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.pdb
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\PolymorphismAsseessment.genruntimeconfig.cache
+D:\c#\programs\PolymorphismAsseessment\PolymorphismAsseessment\obj\Debug\net7.0\ref\PolymorphismAsseessment.dll
